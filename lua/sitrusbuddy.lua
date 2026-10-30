@@ -117,6 +117,7 @@ Group.link("StorageClass", g.Noise)
 
 Group.link("Boolean", g.Number)
 Group.link("Character", g.Number)
+Group.link("Float", g.Number)
 Group.link("Debug", g.Todo)
 Group.link("Directory", g.String)
 Group.link("Label", g.SitrusBlue)
